@@ -95,7 +95,7 @@ int main() {
     printf("PIB per capita: %.2f\n", pib_per_capita02);
     printf("Superpoder: %lu\n", superpoder02);
 
-   //FAZENDO A COMPARAÇAO ULTILIZANDO OS OPERADORES RELACIONAIS 
+   //FAZENDO A COMPARAÇAO ULTILIZANDO estrutura de repetiçao
              printf("\n");
        // Comparações
         if (populacao01>populacao02)
