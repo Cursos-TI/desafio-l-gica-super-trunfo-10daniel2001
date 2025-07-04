@@ -21,7 +21,7 @@ int main() {
     int pontosturisticos02;
     unsigned long int superpoder02;
 
-    // ENTRADA CARTA 01
+    // ENTRADA CARTA 01 !
     printf("***************************************\n");
     printf("PREENCHA OS DADOS DA CARTA 01 \n");
     printf("DIGITE O ESTADO (EX: SP): ");
