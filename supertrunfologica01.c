@@ -10,7 +10,7 @@ int main() {
     int pontosturisticos01;
     unsigned long int superpoder01;
 
-    // Carta 02
+    // Carta 02!
     char estado02[3];
     char codigo02[5];
     char nomecidade02[50];
