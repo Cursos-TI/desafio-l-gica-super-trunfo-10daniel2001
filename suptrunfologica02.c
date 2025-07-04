@@ -39,7 +39,7 @@ int main() {
     printf("DIGITE A QUANTIDADE DE PONTOS TURISTICOS: ");
     scanf("%d", &pontosturisticos01);
 
-    // ENTRADA CARTA 02
+    // ENTRADA CARTA 02 ! 
     printf("\n***************************************\n");
     printf("PREENCHA OS DADOS DA CARTA 02 \n");
     printf("DIGITE O ESTADO (EX: RJ): ");
@@ -63,7 +63,7 @@ int main() {
     pib_per_capita01 = pib01 / (float)populacao01;
     pib_per_capita02 = pib02 / (float)populacao02;
 
-    // CÁLCULO DO SUPERPODER
+    // CÁLCULO DO SUPERPODER !
     superpoder01 = populacao01 + (unsigned long)pib01 + (unsigned long)area01 +
                    pontosturisticos01 + (unsigned long)densidade01 + (unsigned long)pib_per_capita01;
 
